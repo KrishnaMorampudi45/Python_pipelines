@@ -1,0 +1,59 @@
+Krishna Apil Chowdary Morampudi  
+|📌 Hyderabad, Telangana | 📞+91 9705205074 | 📧 ka.morampudi@gmail.com |  
+OBJECTIVE 
+ 
+Eager and motivated soon-to-be graduate with a strong desire to launch a career in a challenging position within a reputable 
+organization. Possess a solid foundation of knowledge and skills, with a commitment to continuous learning and professional growth. 
+Demonstrated ability to work effectively both independently and as part of a team, coupled with excellent communication and 
+interpersonal capabilities. 
+EDUCATION 
+TKR COLLEGE OF ENGINEERING AND TECHNOLOGY                                                              
+ 
+Bachelor’s Degree | Computer Science | Nov.2022 - Current 
+VNR VIGNANA JYOTHI INSTITUTE OF ENGINEERING AND TECHNOLOGY 
+ 
+Diploma | Electronics and Communications | Jun.2019 – Jun.2022 
+SKILLS 
+PROGRAMMING LANGUAGES 
+ 
+C, C++, JAVA, PYTHON, PHP 
+DATABASES 
+ 
+MySQL, MongoDB 
+WEB TECHNOLOGIES 
+ 
+HTML5, CSS, Bootstrap, XML 
+OPERATING SYSTEMS 
+ 
+Microsoft Windows, Linux, MAC OS 
+PROJECTS 
+FULL STACK WEB APPLICATION ( HTML, CSS, PHP, MYSQL ) 
+ 
+Developed a whole website from scratch where the users can login to the website and choose whether they want to be a Donor or 
+Recipient. 
+ 
+Developed using the current Web Technologies HTML5, CSS and PHP with MySQL as database. 
+ 
+Implemented Sign-up, Sign-In and Admin login for different type of users. 
+BRAIN TUMOR DETECTION THROUGH MRI IMAGES USING DEEP LEARNING MODELS 
+ 
+Currently working on my major project in the domain of Deep Learning for Detecting Brain Tumor using the MRI images  
+ 
+The model will be trained using the various datasets available on the internet with various Deep Learning models like Artificial 
+Neural Networks, Convolutional Neural Networks etc…. 
+ 
+The efficiency and accuracy of the model will be ~97%. 
+CERTIFICATIONS 
+ 
+ 
+Java Full Stack  | TNS India Foundation 
+ 
+Python Essentials 1 |  CISCO 
+ 
+Python Essentials 2 |  CISCO 
+ 
+Python Programming |  NPTEL – SWAYAM 
+ 
+Python Course Completion |  Kaggle 
+ 
+Introduction to Cloud Computing |  AWS 
