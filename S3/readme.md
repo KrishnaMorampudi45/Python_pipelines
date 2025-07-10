@@ -55,7 +55,7 @@ bucket = your-source-bucket-name
 path = your/prefix/path/
 
 [ssms]
-engine = mssql+pyodbc://username:password@server/dbname?driver=ODBC+Driver+17+for+SQL+Server
+engine = your_db_string
 ```
 
 ---
