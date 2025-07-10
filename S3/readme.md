@@ -13,14 +13,14 @@ This project automates the extraction, transformation, and archival of resume da
 
 ```
 
-.
-├── main.py               # Main script to extract and process PDF resumes
-├── transform.py          # Extracts structured data from resume text
-├── database.py           # Manages SQL Server connection
-├── to\_archive.py         # Moves processed resumes to an archive bucket
-├── config.ini            # Configuration file
-├── pdf\_text\_output/      # Folder for extracted .txt files from PDFs
-└── README.md             # Project documentation
+.<br>
+├── main.py               # Main script to extract and process PDF resumes<br>
+├── transform.py          # Extracts structured data from resume text<br>
+├── database.py           # Manages SQL Server connection<br>
+├── to\_archive.py         # Moves processed resumes to an archive bucket<br>
+├── config.ini            # Configuration file<br>
+├── pdf\_text\_output/      # Folder for extracted .txt files from PDFs<br>
+└── README.md             # Project documentation<br>
 
 ````
 
@@ -132,13 +132,6 @@ s3.Object(source_bucket, source_file).delete()
 
 ---
 
-## ✅ Future Improvements
-
-* Add logging instead of using `print()`
-* Add error handling for missing values
-* Upload extracted data to a dashboard
-* Add support for DOCX files or other formats
-* Improve skill-matching using NLP
 
 ---
 
