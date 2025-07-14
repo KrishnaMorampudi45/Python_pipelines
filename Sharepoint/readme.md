@@ -1,4 +1,4 @@
-Here's a detailed `README.md` file that explains every function and package used in your script in a way that's friendly for non-technical readers:
+
 
 ---
 
@@ -156,4 +156,3 @@ A: It's a table-like structure used in Python for organizing data.
 
 ---
 
-Let me know if you'd like this saved as an actual file or want help expanding it for deployment (e.g., scheduling, logging, etc.)!
